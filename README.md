@@ -1,0 +1,2 @@
+# nginx-autoindex
+Autoindex template
